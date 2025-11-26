@@ -1,1 +1,1 @@
- 
+const scriptVar = 20;
