@@ -7,4 +7,4 @@ const sum = (a, b) => {
 
 console.log(sum(2, 2));
 
-const name = "Rohan";
+const name = "Rohan"; 
