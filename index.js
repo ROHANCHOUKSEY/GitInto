@@ -8,3 +8,7 @@ const sum = (a, b) => {
 console.log(sum(2, 2));
 
 const name = "Rohan"; 
+
+function featureAdd(){
+    console.log("This is new feature A");
+}
