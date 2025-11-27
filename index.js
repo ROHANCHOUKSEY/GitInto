@@ -12,3 +12,12 @@ const name = "Rohan";
 function featureAdd(){
     console.log("This is new feature A");
 }
+
+function featureAddB(){
+    console.log("This is new feature B");
+}
+
+
+function featureAddC(){
+    console.log("This is new feature C");
+}
