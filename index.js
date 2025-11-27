@@ -28,3 +28,7 @@ function featureAddD() {
 function featureAddE() {
   console.log("This is new feature E");
 }
+
+function featureAddE2() {
+  console.log("This is new feature E2");
+}
