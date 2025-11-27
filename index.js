@@ -32,3 +32,9 @@ function featureAddE() {
 function featureAddE2() {
   console.log("This is new feature E2");
 }
+
+
+
+function featureAddE3() {
+  console.log("This is new feature E3");
+}
