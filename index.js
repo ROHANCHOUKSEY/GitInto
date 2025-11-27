@@ -1,5 +1,6 @@
 const a = 20;
 const b = 30;
+const name = "Rohan"
 
 const sum = (a, b) => {
   return a + b;
